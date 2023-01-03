@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5 11" width="5" height="11">
+	<title>shop</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #8d8d8d } 
+	</style>
+	<g id="shop">
+		<g id="Pagination_bar">
+			<g id="Next">
+				<path id="angle_right" class="shp0" d="M5 5.18C5 5.36 4.95 5.54 4.83 5.67L1.06 9.97C0.82 10.24 0.43 10.24 0.19 9.97C-0.05 9.7 -0.05 9.25 0.19 8.98L3.52 5.18L0.19 1.38C-0.05 1.1 -0.05 0.66 0.19 0.39C0.43 0.11 0.82 0.11 1.06 0.39L4.83 4.68C4.94 4.82 5 5 5 5.18L5 5.18ZM5 5.18" />
+			</g>
+		</g>
+	</g>
+</svg>
